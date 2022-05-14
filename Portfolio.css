@@ -1,5 +1,6 @@
 
 
+
 header{
     text-align: center; 
 } 
@@ -27,13 +28,13 @@ table, th, td{
 h2{
 position: relative;
 top: 100px;
-right: 880px;
+right: 600px;
 }
 
 h3{
 position: relative;
 top: 180px;
-right: 810px; 
+right: 600px; 
 
 
 }
