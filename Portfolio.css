@@ -25,11 +25,9 @@ right: 600px;
 
 
 
-
-
 table{
     position: relative;
-    bottom: 100px;
+    bottom: 150px;
 }
 
 
@@ -63,7 +61,7 @@ article{
 aside{
     position: relative; 
     color: purple ;
-    top: 780px;
+    top: 400px;
      
 
 }
@@ -74,8 +72,6 @@ div{
     color: red;
     text-align : left;
 }
-
-
 
 
 footer{
