@@ -8,13 +8,13 @@ h1{
     position: relative;
     height: 50px;
     right: 550px;
-    bottom: 130px;
+    bottom: 100px;
 }
 
 h2{
 position: relative;
 top: 100px;
-right: 600px;
+right: 615px;
 }
 
 h3{
@@ -23,8 +23,9 @@ top: 180px;
 right: 600px; 
 }
 
-
-
+nav{
+    
+}
 
 table, th, td{
     border: 1px solid black;
@@ -55,7 +56,7 @@ article{
 aside{
     position: relative; 
     color: purple ;
-    top: 400px;
+    top: 330px;
      
 
 }
