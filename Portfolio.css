@@ -13,7 +13,7 @@ table{
 h1{
     position: relative;
     height: 50px;
-    right: 600px;
+    right: 550px;
     bottom: 130px;
 }
 
@@ -23,6 +23,9 @@ table, th, td{
 }
 
 
+figcaption{
+    left: 700px;
+}
 
 
 h2{
