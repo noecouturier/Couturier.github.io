@@ -1,14 +1,8 @@
 
 
-
 header{
     text-align: center; 
 } 
-
-table{
-    position: relative;
-    bottom: 100px;
-}
 
 h1{
     position: relative;
@@ -16,17 +10,6 @@ h1{
     right: 550px;
     bottom: 130px;
 }
-
-table, th, td{
-    border: 1px solid black;
-    
-}
-
-
-figcaption{
-    left: 700px;
-}
-
 
 h2{
 position: relative;
@@ -38,9 +21,37 @@ h3{
 position: relative;
 top: 180px;
 right: 600px; 
-
-
 }
+
+
+
+
+
+table{
+    position: relative;
+    bottom: 100px;
+}
+
+
+
+table, th, td{
+    border: 1px solid black;
+    
+}
+
+summary{
+ top: 50px;   
+}
+
+figcaption{
+    left: 700px;
+}
+
+p{
+    position: relative;
+    top: 100px;
+   }
+
 
 article{
     position: relative;
@@ -64,10 +75,6 @@ div{
     text-align : left;
 }
 
-p{
-    position: relative;
-    top: 200px;
-   }
 
 
 
