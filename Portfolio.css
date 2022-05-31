@@ -25,12 +25,6 @@ right: 600px;
 
 
 
-table{
-    position: relative;
-    bottom: 150px;
-}
-
-
 
 table, th, td{
     border: 1px solid black;
@@ -42,12 +36,12 @@ summary{
 }
 
 figcaption{
-    left: 700px;
+    right: 700px;
 }
 
 p{
     position: relative;
-    top: 100px;
+    top: 50px;
    }
 
 
@@ -68,7 +62,7 @@ aside{
 
 div{
     position: relative;
-    top: 00px; 
+    top: 100px; 
     color: red;
     text-align : left;
 }
