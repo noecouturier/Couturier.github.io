@@ -5,10 +5,8 @@ header{
 } 
 
 h1{
-    position: relative;
-    height: 50px;
-    right: 550px;
-    bottom: 100px;
+    position: center;
+ 
 }
 
 h2{
@@ -44,6 +42,10 @@ p{
     position: relative;
     top: 50px;
    }
+
+a{
+text-align: right;    
+}
 
 
 article{
